@@ -1,6 +1,6 @@
 # Gowtham-city
 
-###Prerequisites
+### Prerequisites
 
 - Java 8 or 11 & maven
 
@@ -21,7 +21,7 @@ docker exec dev-postgres psql -U postgres -c"CREATE DATABASE coursedb" postgres
 
 
 
-#####Build Microservices in Spring with Docker
+##### Build Microservices in Spring with Docker
 
 Services involved in this project are 
 
@@ -35,7 +35,7 @@ Services involved in this project are
     - School-UI
         - User interface that utilizes School Service (http://localhost:8080)
 
-##Run
+## Run
 
 - Build the images 
 
@@ -72,7 +72,7 @@ docker-compose up -d
        - 8080:8080
    ```
 
-######Roadmap:  
+###### Roadmap:  
 
 - Flyway 
 - Profile for nosql, postgres and mysql
