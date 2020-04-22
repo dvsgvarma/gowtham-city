@@ -10,8 +10,8 @@
     <name>parent</name>
 
     <modules>
-        <module>school-service</module>
         <module>discovery</module>
+        <module>school-service</module>
     </modules>
 
 </project>
