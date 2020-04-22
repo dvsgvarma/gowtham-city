@@ -11,6 +11,7 @@
 
     <modules>
         <module>school-service</module>
+        <module>discovery</module>
     </modules>
 
 </project>
