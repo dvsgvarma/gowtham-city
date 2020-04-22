@@ -72,3 +72,12 @@ docker-compose up -d
        - 8080:8080
    ```
 
+######Roadmap:  
+
+- Flyway 
+- Profile for nosql, postgres and mysql
+- User access roles from okta groups 
+- Datadog
+- Sentry
+- K8s
+- Tests: PBT, Contract based and Behaviour
